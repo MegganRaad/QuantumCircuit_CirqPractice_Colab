@@ -1,2 +1,2 @@
-# QuantumCircuit_CirqPractice_Colab
-## simple repo for creating some quantum cirq with Google's Cirq
+#Quantum circuit practicing with Cirq
+simple repo on creating some quantum cirq with Google's Cirq
